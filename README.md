@@ -100,7 +100,7 @@ void loop()
 ![Bala R 212222220007](https://github.com/balar2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/118791778/2b5de894-c9b1-4502-a212-1440b0271b86)
 
 ## Serial Monitor Graph:
-![Bala R 212222220007](https://github.com/balar2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/118791778/001fcfe7-fbc9-4446-820c-ebd48418406f)
+![Screenshot 2024-03-22 161650](https://github.com/balar2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/118791778/d5fcddd8-aa96-4b49-af51-49e0d3463025)
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled.
